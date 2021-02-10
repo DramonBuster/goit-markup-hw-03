@@ -47,6 +47,7 @@ div.container {
   margin-left: 15px;
   display: flex;
   align-items: center;
+  border-bottom: #ececec;
 }
 
 .site-nav {
@@ -161,6 +162,7 @@ div.container {
 .qualities {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 94px;
 }
 
 .img-1 {
