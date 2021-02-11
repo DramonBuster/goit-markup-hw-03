@@ -304,7 +304,6 @@ h4 {
 }
 
 .project-description {
-  margin-top: -11px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
