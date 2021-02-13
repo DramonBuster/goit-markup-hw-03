@@ -44,7 +44,8 @@ div.container {
 }
 
 .header-container {
-  height: 80px;
+  padding-top: 24px;
+  padding-bottom: 25px;
   margin-left: 15px;
   display: flex;
   align-items: center;
@@ -157,7 +158,6 @@ div.container {
 
 .quality-box {
   width: 270px;
-  height: 101px;
 }
 
 .qualities {
@@ -201,6 +201,7 @@ h3 {
   vertical-align: top;
   color: var(--main-text);
   margin: 0px;
+  margin-bottom: 10px;
 }
 
 h4 {
@@ -230,8 +231,8 @@ h4 {
 
 .team-card {
   width: 270px;
-  height: 368px;
   background: white;
+  padding-bottom: 30px;
 }
 
 .info-footer {
